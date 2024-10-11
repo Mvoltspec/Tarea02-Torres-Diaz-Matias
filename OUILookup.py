@@ -2,6 +2,7 @@ import requests
 import subprocess
 import sys
 import getopt
+#Matias Ignacio Torres Díaz
 
 # Función: consulta el fabricante de una dirección MAC usando una API externa
 def consultar_mac(direccion_mac):
